@@ -1,4 +1,4 @@
-pip install tensorflow==2.18.0
+!pip install tensorflow==2.18.0
 import streamlit as st
 import numpy as np
 from tensorflow.keras.preprocessing.sequence import pad_sequences
